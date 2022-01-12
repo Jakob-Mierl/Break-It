@@ -1,5 +1,3 @@
 /bin/
-.classpath
-.git
-.gitignore
-.project
+.*
+!.gitignore
